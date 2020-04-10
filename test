@@ -1,0 +1,3 @@
+#open the file 
+import sys
+import os 
